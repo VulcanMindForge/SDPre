@@ -28,5 +28,7 @@ public class Objective4Lab2 {
 		
 		//Print the three doubles and their sum
 		System.out.println("The sum of " + dub1 + " + " + dub2 + " + " + dub3 + " = " + (dub1+dub2+dub3) + ".");
+	
+		keyboard.close();
 	}
 }
