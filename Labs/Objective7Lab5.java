@@ -20,6 +20,7 @@ public class Objective7Lab5 {
 			} else if(selection == 2) {
 				System.out.println("Pizza, Ice Cream, Steak & Mashed Potatoes");
 			} else if(selection == 3) {
+				System.out.println("Goodbye");
 				break;
 			}
 		}
